@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">प्रोडक्ट मार्ट </string>
+    <string name="rs_x">रु %1$s</string>
+    <string name="products">प्रोडक्ट्स </string>
+    <string name="featured">फीचर्ड </string>
+
+    <string name="ac">एयर कंडीशनर</string>
+    <string name="chair">चेयर </string>
+    <string name="fridge">फ्रिज</string>
+    <string name="laptop">लैपटॉप</string>
+    <string name="microwave">माइक्रोवेव</string>
+    <string name="mobile">मोबाइल</string>
+    <string name="table">टेबल</string>
+    <string name="table_fan">टेबल फैन</string>
+    <string name="tv">टेलीविज़न</string>
+
+</resources>

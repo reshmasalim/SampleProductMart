@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Products Mart</string>
+    <string name="rs_x">Rs. %1$s</string>
+    <string name="products">Products</string>
+    <string name="featured">Featured</string>
+    <string name="ac">Air Conditioner</string>
+    <string name="chair">Chair</string>
+    <string name="fridge">Fridge</string>
+    <string name="laptop">Laptop</string>
+    <string name="microwave">Microwave</string>
+    <string name="mobile">Mobile</string>
+    <string name="table">Table</string>
+    <string name="table_fan">Table Fan</string>
+    <string name="tv">Television</string>
+</resources>
